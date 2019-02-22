@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtificialTalk.net", "ArtificialTalk.net.csproj", "{81810A60-1E64-4DDD-92DF-A2EFA9851AFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtificialTalk.net.tests", "ArtificialTalk.net.tests\ArtificialTalk.net.tests.csproj", "{D921CE4C-1F49-48CF-BA6F-70549523FBC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaisyTalker", "DaisyTalker\DaisyTalker.csproj", "{6E750DAB-7CE7-4F60-9744-BA53579E8388}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81810A60-1E64-4DDD-92DF-A2EFA9851AFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81810A60-1E64-4DDD-92DF-A2EFA9851AFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81810A60-1E64-4DDD-92DF-A2EFA9851AFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81810A60-1E64-4DDD-92DF-A2EFA9851AFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D921CE4C-1F49-48CF-BA6F-70549523FBC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D921CE4C-1F49-48CF-BA6F-70549523FBC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D921CE4C-1F49-48CF-BA6F-70549523FBC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D921CE4C-1F49-48CF-BA6F-70549523FBC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E750DAB-7CE7-4F60-9744-BA53579E8388}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E750DAB-7CE7-4F60-9744-BA53579E8388}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E750DAB-7CE7-4F60-9744-BA53579E8388}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E750DAB-7CE7-4F60-9744-BA53579E8388}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
